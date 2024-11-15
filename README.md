@@ -1,9 +1,7 @@
-```
-Name: Vanitha S 
-Register No: 212222100057
-```
+<H3> Name: Vanitha S </H3>
+<H3> Register Number: 212222100057 </H3>
 <H3> Experiment 1</H3>
-<H3>DATE:04-09-2024</H3>
+<H3>DATE:16-08-2024</H3>
 <H1 ALIGN=CENTER> Implementation of Bayesian Networks</H1>
 
 ### Aim:
